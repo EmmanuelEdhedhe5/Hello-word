@@ -2,4 +2,4 @@
 
 My first repository oo Github
 
-I love :Dancing:, and :pizza:.
+I love :dancing:, :dancer: :coffee: and :pizza:.
